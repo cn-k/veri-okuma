@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="veri okuma:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/veri_okuma_jar</output-path>
+    <root id="archive" name="veri okuma.jar">
+      <element id="module-output" name="veri okuma" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/jgoodies-forms-1.7.2/jgoodies-forms-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jgoodies-looks-2.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/poi-3.13/poi-3.13-20150929.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/poi-3.13/poi-ooxml-3.13-20150929.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/poi-3.13/poi-examples-3.13-20150929.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/poi-3.13/poi-excelant-3.13-20150929.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/jgoodies-common-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/jgoodies-common-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/xmlbeans.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jxl-2.6" />
+    </root>
+  </artifact>
+</component>

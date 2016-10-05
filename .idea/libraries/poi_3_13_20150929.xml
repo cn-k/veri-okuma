@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="poi-3.13-20150929">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jars/jgoodies-forms-1.7.2/jgoodies-forms-1.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgoodies-looks-2.5.3.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/jars/poi-3.13" />
+      <root url="jar://$USER_HOME$/Desktop/jars/jgoodies-common-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jars/jgoodies-common-bin.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jars/xmlbeans.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/jars/poi-3.13/docs/apidocs" />
+      <root url="jar://$USER_HOME$/Desktop/jars/jgoodies-forms-1.7.2/jgoodies-forms-1.7.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgoodies-common-1_7_0.zip!/jgoodies-common-1.7.0/docs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/jars/jgoodies-forms-1.7.2/jgoodies-forms-1.7.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jars/jgoodies-forms-1.7.2/jgoodies-forms-1.7.2-tests.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/jars/poi-3.13" recursive="false" />
+  </library>
+</component>
